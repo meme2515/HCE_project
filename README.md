@@ -4,10 +4,10 @@ In this project, you will investigate data regarding student demographics and ed
 
 ## 📊 Data
 
-#### Public schools and districts data: https://www.cde.ca.gov/ds/si/ds/pubschls.asp
+Public schools and districts data: https://www.cde.ca.gov/ds/si/ds/pubschls.asp
 
-#### School enrollment (demographics) data: https://www.cde.ca.gov/ds/sd/sd/filesenr.asp
+School enrollment (demographics) data: https://www.cde.ca.gov/ds/sd/sd/filesenr.asp
 
-#### Postsecondary preparedness (ACT scores) data: https://www.cde.ca.gov/ds/sp/ai/
+Postsecondary preparedness (ACT scores) data: https://www.cde.ca.gov/ds/sp/ai/
 
-#### Brookings Institute article regarding racial differences in educational outcomes: https://www.brookings.edu/articles/unequal-opportunity-race-and-education/
+Brookings Institute article regarding racial differences in educational outcomes: https://www.brookings.edu/articles/unequal-opportunity-race-and-education/
