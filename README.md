@@ -4,3 +4,8 @@ In this project, you will investigate data regarding student demographics and ed
 
 As we clean and explore these data, you will gain practice with reading simple csv files, working with data at different levels of granularity, identifying the type of data collected, missing values, anomalies, etc., applying probability sampling techniques and exploring characteristics and distributions of individual variables.
 
+Public schools and districts data: https://www.cde.ca.gov/ds/si/ds/pubschls.asp
+
+School enrollment (demographics) data: https://www.cde.ca.gov/ds/sd/sd/filesenr.asp
+
+Postsecondary preparedness (ACT scores) data: https://www.cde.ca.gov/ds/sp/ai/
