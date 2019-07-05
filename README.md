@@ -15,3 +15,5 @@ Note that original data have been manipulated within ipynb to fit project goals.
 ## 📚 Resources
 
 Brookings Institute article regarding racial differences in educational outcomes: https://www.brookings.edu/articles/unequal-opportunity-race-and-education/
+
+Data 100 Jupyter Notebook edit guides: https://docs.google.com/document/d/1PxhuVf84c_CQu8CgYhHgBw4ptDbX7tc7HgAIyhAfgy8/edit
