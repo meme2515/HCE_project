@@ -10,6 +10,8 @@ School enrollment (demographics) data: https://www.cde.ca.gov/ds/sd/sd/filesenr.
 
 Postsecondary preparedness (ACT scores) data: https://www.cde.ca.gov/ds/sp/ai/
 
-Brookings Institute article regarding racial differences in educational outcomes: https://www.brookings.edu/articles/unequal-opportunity-race-and-education/
-
 Note that original data have been manipulated within ipynb to fit project goals. 
+
+## 📚 Resources
+
+Brookings Institute article regarding racial differences in educational outcomes: https://www.brookings.edu/articles/unequal-opportunity-race-and-education/
