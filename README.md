@@ -18,7 +18,7 @@ The demographics table is organized so that each row corresponds to a given ethn
 
 ### Question 8
 
-Question 8 of the project is composed to free response questions intended to motivate students to think about the context and background of the data they're dealing with. They are given the opportunity to answer questions like why are they seeing the differences that they have observed in the data and what are some interventions that that they can think of to remedy this situation. This way, we expect students to learn the implications of analyzing real world data and how data science should be combined with human context for accurate interpretation of the data.
+Question 8 of the project is composed of free response questions intended to motivate students to think about the context and background of the data they're dealing with. They are given the opportunity to answer questions like why are they seeing the differences that they have observed in the data and what are some interventions that that they can think of to remedy this situation. This way, we expect students to learn the implications of analyzing real world data and how data science should be combined with human context for accurate interpretation of the data.
 
 ## 📊 Data
 
