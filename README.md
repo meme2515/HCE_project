@@ -6,6 +6,22 @@ Project 1 (Spring 2019) is a potential point of intervention where we can introd
 
 The aim of this potential Data 100 project is to familiarize students with basic Pandas commands while emphasizing the context and meaning of the dataset of interest. While the priority of the project should be placed in educating students of the relevant technical skills, the team also hopes to use this opportunity to educate students of the pressing issue of racial differences in educational outcome in the state of California, a topic relevant to nearly all students going through this core, upper-division data analytics project at Cal. The project also goes in line with Chancellor Carol T. Christ's Diversity Initiatives and the on-going national debate regarding the legitimacy of affirmative action on college campuses.
 
+## 📋 Project Outline
+
+### Question 1
+
+### Question 2
+
+### Question 3
+
+### Question 4
+
+### Question 5
+
+### Question 6
+
+### Question 7
+
 ## 📊 Data
 
 Public schools and districts data: https://www.cde.ca.gov/ds/si/ds/pubschls.asp
