@@ -10,7 +10,7 @@ The aim of this potential Data 100 project is to familiarize students with basic
 
 ### Schools Directory & ACT Scores
 
-The original project explores two datasets, restaurants and inspections, that the course developers have used to teach students to work with data at different levels of granularity. In order to deliver a similar level of complexity, I have joined the schools directory data with average ACT Scores data to offer a total of two datasets for students to work with. The resulting table has granularity at the individual school level. 
+The original project explores two datasets, restaurants and inspections, that the course developers have used to teach students to work with data at different levels of granularity. In order to deliver a similar level of complexity, the team has joined the schools directory data with average ACT Scores data to offer a total of two datasets for students to work with. The resulting table has granularity at the individual school level. 
 
 ### Demographics
 
