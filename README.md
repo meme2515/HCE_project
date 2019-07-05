@@ -16,6 +16,10 @@ The original project explores two datasets, restaurants and inspections, that th
 
 The demographics table is organized so that each row corresponds to a given ethnicity and gender (ex. male Hispanic, female White). Although ACT Scores and Inspection Scores share similar data characteristics, the ACT Scores table has identical granularity as the school directory table. The demographics table was therefore chosen as a second table that replaces the inspections table in the original project.
 
+### Question 8
+
+Question 8 of the project is composed to free response questions intended to motivate students to think about the context and background of the data they're dealing with. They are given the opportunity to answer questions like why are they seeing the differences that they have observed in the data and what are some interventions that that they can think of to remedy this situation. This way, we expect students to learn the implications of analyzing real world data and how data science should be combined with human context for accurate interpretation of the data.
+
 ## 📊 Data
 
 Public schools and districts data: https://www.cde.ca.gov/ds/si/ds/pubschls.asp
