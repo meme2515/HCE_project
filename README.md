@@ -92,7 +92,7 @@ School enrollment (demographics) data: https://www.cde.ca.gov/ds/sd/sd/filesenr.
 
 Postsecondary preparedness (ACT scores) data: https://www.cde.ca.gov/ds/sp/ai/
 
-*Note that original data have been manipulated within ipynb to fit project goals. *
+*Note that original data have been manipulated within ipynb to fit project goals.*
 
   - Joined school directory data and ACT scores data (left join on school directory). The resulting table partially contains null values       in columns corresponding to ACT scores as a result (for example, a given school may not necessarily be a high school). 
 
