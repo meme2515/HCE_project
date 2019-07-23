@@ -18,31 +18,54 @@ Blue: New number of retained question or new question if no “➡” is given
 Red: Question removed
 
 Question 1.
+
 1a, 1b, 1c ➡ 1a, 1d ➡ 1b, 1e ➡ 1c
+
 Question 2.
+
 2a, 2b
+
 Question 3.
+
 3a, 3b ➡ 3b & 3e, 3c, 3d, 3e, 3f
+
 Question 4.
+
 4a, 4b, 4c, 4d, 4e, 4f, 4g, 4h, 4i
+
 Question 5.
+
 5a, 5b ➡ 6c
+
 Question 6.
+
 6a, 6b, 6c
+
 Question 7.
+
 7a ➡ 5b, 7b ➡ 5c, 7c ➡ 5d
+
 Question 8.
+
 8a, 8b, 8c, 8d, 8e
+
 (need to be covered in replacement question 7)
 
 Total: 
 
+
 10 questions missing
+
 1a and 1b are terminal operations.
+
 Data is too clean to apply questions 3d and 3e.
+
 No time information for 6c.
+
 25 questions maintained
+
 6 questions added (6d, 7a, 7b, 8a, 8b, 8c)
+
 Not shown in the directory above.
 
 ### Differences From The Original Project
