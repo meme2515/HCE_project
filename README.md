@@ -24,15 +24,7 @@ We have chosen to replace the San Francisco restaurant health score data set wit
 
 **Question 1.**
 
-  1a ❌
-  
-  1b ❌
-  
-  1c ➡️ 1a
-  
-  1d ➡️ 1b
-  
-  1e ➡️ 1c
+  1a ❌ | 1b ❌ | 1c ➡️ 1a | 1d ➡️ 1b | 1e ➡️ 1c
 
 **Question 2.**
 
