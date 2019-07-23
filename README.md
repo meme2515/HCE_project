@@ -11,23 +11,23 @@ We have chosen to replace the San Francisco restaurant health score data set wit
 
 ## 📋 Project Outline
 
-### ✅ Similarities With The Original Project
+### Similarities With The Original Project ✅
 
-#### Question Directory (Tracking Changes):
+**Question Directory (Tracking Changes):**
 
-**Black: Original question that is retained**
+  Black: Original question that is retained
 
-**<span style="color:blue">Blue: New number of retained question or new question if no “➡” is given </span>**
+  Blue: New number of retained question or new question if no “→” is given
 
-**<span style="color:red">Red: Question removed </span>**
+  Red: Question removed
 
-Question 1.
+**Question 1.**
 
-1a, 1b, 1c ➡ 1a, 1d ➡ 1b, 1e ➡ 1c
+  1a, 1b, 1c ➡ 1a, 1d ➡ 1b, 1e ➡ 1c
 
-Question 2.
+**Question 2.**
 
-2a, 2b
+  2a, 2b
 
 Question 3.
 
