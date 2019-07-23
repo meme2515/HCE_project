@@ -61,17 +61,9 @@ We have chosen to replace the San Francisco restaurant health score data set wit
 
 10 questions missing
 
-1a and 1b are terminal operations.
-
-Data is too clean to apply questions 3d and 3e.
-
-No time information for 6c.
-
 25 questions maintained
 
 6 questions added (6d, 7a, 7b, 8a, 8b, 8c)
-
-Not shown in the directory above.
 
 
 ### Differences From The Original Project
