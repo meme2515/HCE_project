@@ -24,35 +24,89 @@ We have chosen to replace the San Francisco restaurant health score data set wit
 
 **Question 1.**
 
-  1a ❌, 1b ❌, 1c ➡️ 1a, 1d ➡️ 1b, 1e ➡️ 1c
+  1a ❌
+  
+  1b ❌
+  
+  1c ➡️ 1a
+  
+  1d ➡️ 1b
+  
+  1e ➡️ 1c
 
 **Question 2.**
 
-  2a ✅, 2b ✅
+  2a ✅
+  
+  2b ✅
 
 **Question 3.**
 
-  3a ✅, 3b ➡️ 3b & 3e, 3c ✅, 3d ❌, 3e ❌, 3f ✅
+  3a ✅
+  
+  3b ➡️ 3b & 3e
+  
+  3c ✅
+  
+  3d ❌
+  
+  3e ❌
+  
+  3f ✅
 
 **Question 4.**
 
-  4a ✅, 4b ✅, 4c ✅, 4d ✅, 4e ✅, 4f ✅, 4g ✅, 4h ✅, 4i ✅
+  4a ✅
+  
+  4b ✅
+  
+  4c ✅
+  
+  4d ✅
+  
+  4e ✅
+  
+  4f ✅
+  
+  4g ✅
+  
+  4h ✅
+  
+  4i ✅
 
 **Question 5.**
 
-  5a ✅, 5b ➡️ 6c
+  5a ✅
+  
+  5b ➡️ 6c
 
 **Question 6.**
 
-  6a ✅, 6b ✅, 6c ❌
+  6a ✅
+  
+  6b ✅
+  
+  6c ❌
 
 **Question 7.**
 
-  7a ➡️ 5b, 7b ➡️ 5c, 7c ➡️ 5d
+  7a ➡️ 5b
+  
+  7b ➡️ 5c
+  
+  7c ➡️ 5d
 
 **Question 8.**
 
-  8a ❌, 8b ❌, 8c ❌, 8d ❌, 8e ❌
+  8a ❌
+  
+  8b ❌
+  
+  8c ❌
+  
+  8d ❌
+  
+  8e ❌
 
 *(need to be covered in replacement question 7)*
 
