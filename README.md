@@ -52,16 +52,14 @@ We have chosen to replace the San Francisco restaurant health score data set wit
 
 **Question 8.**
 
-  8a ❌ | 8b ❌ | 8c ❌ | 8d ❌ | 8e ❌
-
-*(need to be covered in replacement question 7)*
+  8a ❌ | 8b ➡️ 7c | 8c ➡️ 7d | 8d ❌ | 8e ➡️ 7e
 
 
 **Total:**
 
-10 questions missing
+7 questions missing
 
-25 questions maintained
+28 questions maintained
 
 6 questions added (6d, 7a, 7b, 8a, 8b, 8c)
 
